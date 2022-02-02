@@ -1,0 +1,1 @@
+# sql_server_docker_image_with_schema
