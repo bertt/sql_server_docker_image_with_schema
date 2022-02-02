@@ -16,7 +16,8 @@ $ docker run -it -e SA_PASSWORD=Iqaluit900 -p 1433:1433 custom_sqlserver_databas
 
 ```
 $ sqlcmd -S localhost -U sa -Q "SELECT * FROM mydatabase.myschema.mytable"
-Password: id          name
+Password: *******
+id          name
 ----------- --------------------------------------------------
 
 (0 rows affected)
